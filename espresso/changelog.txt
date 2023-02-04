@@ -1,0 +1,10 @@
+--- 에스프레소 2.1 ---
+* 많은 버그 수정
+* 많은 작은 변화
+* 저장 및 불러오기는 Windows 메모장과 거의 동일하게 작동합니다.
+
+--- Latte v2.5 ---
+Changelog:
+
+* Changed encoding to UTF-8
+* Made it look like it's 100% Notepad
